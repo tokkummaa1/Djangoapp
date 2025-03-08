@@ -18,7 +18,7 @@ SECRET_KEY = 'django-insecure--c&l*$==owsoz%q!5zh3r&idk(fqbu(malyd@2+x4yt9sy8@u_
 DEBUG = True
 
 ALLOWED_HOSTS = ['*']
-CSRF_TRUSTED_ORIGINS = ['https://771b-198-44-138-170.ngrok-free.app']
+CSRF_TRUSTED_ORIGINS = ['https://edulearnrift.netlify.app/']
 
 
 # Application definition
@@ -68,7 +68,7 @@ MIDDLEWARE = [
 
 CORS_ALLOWED_ORIGINS = [
     "http://localhost:5173",
-    'https://771b-198-44-138-170.ngrok-free.app',
+    'https://edulearnrift.netlify.app/',
 
 ]
 
